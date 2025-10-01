@@ -82,5 +82,5 @@ El modelo con mayor **exhaustividad** es el que utiliza el algoritmo *Random For
 <br>
 
 ## ℹ️ +Info
-Para ver el proyecto completo donde se detalla más información y se explica de manera más amplia las partes más importantes del código ver el documento llamado *Informe.pdf*.
+Para ver el proyecto completo donde se detalla más información y se explica de manera más amplia las partes más importantes del código ver el documento llamado *Memoria.pdf*.
 
